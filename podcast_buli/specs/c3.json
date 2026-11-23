@@ -1,0 +1,8 @@
+{"id": "c3_anakbaik",
+ "segments": [[2896.40, 2898.25], [2878.58, 2886.80], [2887.00, 2898.25], [2899.68, 2902.12], [2903.38, 2907.50], [2914.10, 2926.00], [2963.38, 2972.90], [3006.78, 3009.80]],
+ "hook": {"l1": "Anak awak baik…", "l2": "di rumah je?", "mark": "rumah je?"},
+ "hook_dur": 3.4,
+ "keywords": ["bunuh", "sopan", "baik", "side", "salah", "bayar", "diupah", "parents", "pandai"],
+ "fix": {"diumpa": "diupah", "MSRM": "MRSM"},
+ "zooms": {"0": 1.08}
+}

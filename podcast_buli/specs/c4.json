@@ -1,0 +1,8 @@
+{"id": "c4_sekolah",
+ "segments": [[293.55, 296.50], [193.35, 197.05], [197.30, 201.55], [201.65, 205.55], [205.80, 213.20], [258.10, 261.10], [267.95, 271.40], [272.00, 279.25], [287.00, 290.00], [293.55, 300.90], [301.20, 305.15], [1439.75, 1444.90]],
+ "hook": {"l1": "Sekolah kita", "l2": "lahirkan pembuli?", "mark": "pembuli?"},
+ "hook_dur": 3.2,
+ "keywords": ["empati", "pembuli", "asrama", "culture", "senior", "junior", "persekitaran", "biasa", "adat", "modul"],
+ "fix": {"pemuli": "pembuli", "dibully": "dibuli"},
+ "zooms": {"0": 1.08}
+}

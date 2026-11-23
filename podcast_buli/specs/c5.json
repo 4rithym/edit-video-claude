@@ -1,0 +1,8 @@
+{"id": "c5_notonpaper",
+ "segments": [[1412.60, 1416.95], [1310.05, 1312.10], [1313.15, 1314.80], [1314.75, 1326.05], [1327.45, 1331.80], [1334.70, 1344.66], [1353.95, 1360.00], [1396.75, 1416.95]],
+ "hook": {"l1": "Sekolah takut", "l2": "kes buli terbongkar?", "mark": "terbongkar?"},
+ "hook_dur": 3.4,
+ "keywords": ["anti-bully.my", "pekarasa", "upstander", "bystander", "anonim", "problem", "paper", "kotak", "hentikan", "peduli", "kbs"],
+ "fix": {"Pekerasa": "Pekarasa", "Beli": "Belia", "Yang": "dan", "cegar": "cegah"},
+ "zooms": {"0": 1.08}
+}

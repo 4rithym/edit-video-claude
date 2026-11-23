@@ -1,0 +1,57 @@
+{
+ "id": "c2_penakut",
+ "segments": [
+  [
+   3835.3,
+   3840.6
+  ],
+  [
+   2129.25,
+   2139.85
+  ],
+  [
+   2150.7,
+   2156.22
+  ],
+  [
+   2157.85,
+   2170.75
+  ],
+  [
+   2179.25,
+   2187.45
+  ],
+  [
+   2189.95,
+   2200.9
+  ],
+  [
+   3842.9,
+   3854.3
+  ]
+ ],
+ "hook": {
+  "l1": "Pembuli sebenarnya",
+  "l2": "penakut.",
+  "mark": "penakut."
+ },
+ "hook_dur": 3.4,
+ "keywords": [
+  "penakut",
+  "kuasa",
+  "geng",
+  "one-on-one",
+  "adrenalin",
+  "empati",
+  "kematian",
+  "tribunal",
+  "tindakan",
+  "kesian",
+  "sakit",
+  "lembik",
+  "takut"
+ ],
+ "zooms": {
+  "0": 1.0
+ }
+}
