@@ -1,0 +1,16 @@
+{"id": "J_permulaan", "hook": {"kicker": "DARI UDARA KE UDARA 14,000 KAKI", "l1": "INI BARU", "l2": "PERMULAAN!"},
+ "keywords": ["era", "mbsb", "bank", "asia", "records", "challenge", "start", "journey", "tiktok", "ig", "lagi", "cantik"], "fix": {"jampang": "jump", "Asian": "Asia", "Record": "Records", "Era": "ERA"}, "names": [],
+ "shots": [
+  {"src": "IMG_2593", "a": 28.2, "b": 29.75, "sfx": "impact"},
+  {"src": "IMG_2596", "a": 3.95, "b": 8.1, "chapter": "TERJUNAN TERAKHIR"},
+  {"src": "IMG_2597", "a": 2.5, "b": 8.6, "vol": 0.5, "cap": false},
+  {"src": "GX010122", "a": 13.0, "b": 19.0, "vol": 0.3, "cap": false},
+  {"src": "IMG_2589", "a": 8.1, "b": 11.15, "chapter": "MISI SELESAI", "sfx": "whoosh"},
+  {"src": "IMG_2589", "a": 13.0, "b": 14.65},
+  {"src": "IMG_2589", "a": 20.5, "b": 30.0},
+  {"src": "IMG_2521", "a": 0.0, "b": 3.6, "vol": 0.5, "cap": false},
+  {"src": "IMG_2593", "a": 6.45, "b": 11.25, "vsrc": {"src": "GX019648", "a": 24.0}},
+  {"src": "IMG_2593", "a": 11.2, "b": 16.8},
+  {"src": "IMG_2593", "a": 16.8, "b": 24.1},
+  {"src": "IMG_2593", "a": 25.35, "b": 29.75}
+ ]}

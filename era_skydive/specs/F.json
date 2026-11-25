@@ -1,0 +1,100 @@
+{
+ "id": "F_mendarat",
+ "hook": {
+  "kicker": "MENDARAT DARI 14,000 KAKI",
+  "l1": "ERA,",
+  "l2": "KITA LAKUKAN!"
+ },
+ "keywords": [
+  "era",
+  "malaysia",
+  "mbsb",
+  "lakukan",
+  "amazing",
+  "good",
+  "job",
+  "great",
+  "time",
+  "again",
+  "fantastik"
+ ],
+ "fix": {
+  "MBSP": "MBSB"
+ },
+ "names": [],
+ "shots": [
+  {
+   "src": "GX019649",
+   "a": 15.0,
+   "b": 17.35,
+   "x": 0.6,
+   "sfx": "impact"
+  },
+  {
+   "src": "GX019649",
+   "a": 0.0,
+   "b": 6.0,
+   "vol": 0.3,
+   "cap": false,
+   "chapter": "MENDARAT!",
+   "sfx": "whoosh"
+  },
+  {
+   "src": "GX019649",
+   "a": 6.0,
+   "b": 12.2,
+   "vol": 0.5,
+   "cap": false,
+   "x": 0.6
+  },
+  {
+   "src": "GX019649",
+   "a": 12.2,
+   "b": 16.0,
+   "x": 0.62
+  },
+  {
+   "src": "GX019649",
+   "a": 16.0,
+   "b": 20.7,
+   "x": 0.45
+  },
+  {
+   "src": "GX019649",
+   "a": 22.4,
+   "b": 25.0,
+   "x": 0.45
+  },
+  {
+   "src": "GX019649",
+   "a": 40.7,
+   "b": 47.3,
+   "x": 0.45
+  },
+  {
+   "src": "GX010125",
+   "a": 2.0,
+   "b": 8.0,
+   "vol": 0.4,
+   "cap": false,
+   "chapter": "GILIRAN PAK AZAD",
+   "sfx": "whoosh"
+  },
+  {
+   "src": "GX010125",
+   "a": 16.4,
+   "b": 22.5
+  },
+  {
+   "src": "GX010125",
+   "a": 38.0,
+   "b": 43.8
+  },
+  {
+   "src": "GX019649",
+   "a": 49.3,
+   "b": 58.3,
+   "x": 0.42
+  }
+ ]
+}

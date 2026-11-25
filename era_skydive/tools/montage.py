@@ -14,7 +14,9 @@ def probe(f):
 parts, words, bounds, t = [], [], [], 0.0
 for i, sh in enumerate(spec["shots"]):
     src = f"{E}/src/{sh['src']}.mp4"; a, b = sh["a"], sh["b"]; d = b - a
-    w, h = probe(src)
+    vs = sh.get("vsrc"); vfile = f"{E}/src/{vs['src']}.mp4" if vs else src
+    w, h = probe(vfile)
+    if vs: sh = {**sh, **{k: v for k, v in vs.items() if k in ("x", "y", "zoom")}}
     z = sh.get("zoom", 1.0)
     if w > h:  # landscape -> 9:16 window at horizontal position x (0..1)
         cw = int(h * 9 / 16 / z) // 2 * 2; ch = int(h / z) // 2 * 2; x = sh.get("x", 0.5)
@@ -28,8 +30,10 @@ for i, sh in enumerate(spec["shots"]):
     af = (f"highpass=f=80,volume={vol},aresample=48000,aformat=channel_layouts=stereo,"
           f"afade=t=in:d=0.02,afade=t=out:st={d - 0.03:.3f}:d=0.03")
     out = f"{D}/s{i:02d}.mp4"
-    subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", str(a), "-t", f"{d:.3f}", "-i", src, "-vf", vf, "-af", af,
-                    "-c:v", "libx264", "-crf", "16", "-preset", "fast", "-c:a", "aac", "-b:a", "256k", "-ar", "48000", out], check=True)
+    vin = ["-ss", str(vs["a"]), "-t", f"{d:.3f}", "-i", vfile] if vs else []
+    maps = ["-map", "1:v:0", "-map", "0:a:0"] if vs else []
+    subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", str(a), "-t", f"{d:.3f}", "-i", src] + vin + maps + ["-vf", vf, "-af", af,
+                    "-c:v", "libx264", "-crf", "16", "-preset", "fast", "-c:a", "aac", "-b:a", "256k", "-ar", "48000", "-shortest", out], check=True)
     parts.append(out)
     if sh.get("cap", True):
         for s in T.get(sh["src"], []):

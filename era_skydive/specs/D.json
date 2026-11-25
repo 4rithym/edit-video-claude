@@ -1,0 +1,14 @@
+{"id": "D_pintu", "hook": {"kicker": "DARI UDARA KE UDARA 14,000 KAKI", "l1": "PINTU DIBUKA…", "l2": "SIAP SEDIA?"},
+ "keywords": [], "fix": {}, "names": [],
+ "shots": [
+  {"src": "GX019648", "a": 12.0, "b": 14.6, "vol": 0.4, "cap": false, "sfx": "impact"},
+  {"src": "GX019647", "a": 6.5, "b": 12.0, "vol": 0.6, "cap": false, "chapter": "DALAM PESAWAT", "sfx": "whoosh"},
+  {"src": "GX010123", "a": 6.0, "b": 13.5, "vol": 0.6, "cap": false},
+  {"src": "GX019647", "a": 12.0, "b": 17.5, "vol": 0.6, "cap": false},
+  {"src": "GX019648", "a": 0.5, "b": 6.0, "vol": 0.5, "cap": false, "chapter": "SEMAKAN AKHIR", "sfx": "whoosh"},
+  {"src": "GX010124", "a": 6.0, "b": 11.5, "vol": 0.4, "cap": false, "x": 0.45, "chapter": "PINTU DIBUKA", "sfx": "riser"},
+  {"src": "GX019648", "a": 6.0, "b": 14.6, "vol": 0.45, "cap": false},
+  {"src": "GX010124", "a": 11.5, "b": 14.5, "vol": 0.12, "cap": false, "chapter": "LOMPAT!", "sfx": "whoosh"},
+  {"src": "GX019648", "a": 14.6, "b": 18.0, "vol": 0.12, "cap": false},
+  {"src": "GX010124", "a": 14.5, "b": 18.5, "vol": 0.12, "cap": false}
+ ]}

@@ -1,0 +1,16 @@
+{"id": "E_udara", "hook": {"kicker": "DARI UDARA KE UDARA 14,000 KAKI", "l1": "BEGINI RUPA", "l2": "14,000 KAKI!"},
+ "keywords": [], "fix": {}, "names": [],
+ "shots": [
+  {"src": "GX010124", "a": 30.0, "b": 33.0, "vol": 0.1, "cap": false, "sfx": "impact"},
+  {"src": "GX019648", "a": 18.0, "b": 22.5, "vol": 0.1, "cap": false, "chapter": "FREEFALL", "sfx": "whoosh"},
+  {"src": "GX019648", "a": 24.0, "b": 29.5, "vol": 0.1, "cap": false},
+  {"src": "GX010124", "a": 18.0, "b": 23.5, "vol": 0.1, "cap": false, "x": 0.58},
+  {"src": "GX019648", "a": 33.0, "b": 37.5, "vol": 0.1, "cap": false},
+  {"src": "GX010124", "a": 36.0, "b": 41.5, "vol": 0.1, "cap": false},
+  {"src": "GX019648", "a": 44.5, "b": 48.5, "vol": 0.1, "cap": false},
+  {"src": "GX010124", "a": 45.0, "b": 49.5, "vol": 0.1, "cap": false},
+  {"src": "GX019648", "a": 50.0, "b": 54.5, "vol": 0.1, "cap": false},
+  {"src": "GX010124", "a": 50.0, "b": 54.0, "vol": 0.1, "cap": false},
+  {"src": "GX019648", "a": 60.0, "b": 66.0, "vol": 0.1, "cap": false, "chapter": "PAYUNG DIBUKA", "sfx": "whoosh"},
+  {"src": "GX010124", "a": 55.0, "b": 60.3, "vol": 0.1, "cap": false}
+ ]}

@@ -34,7 +34,7 @@ for i, b in enumerate(T["bounds"]):
 # white flash on first frame
 clip("flash", 0, 0.4, "", "flash"); tl.append('tl.fromTo("#flash",{opacity:0.9},{opacity:0,duration:0.38,ease:"power2.out"},0);')
 # hook
-hk = spec["hook"]; hd = T["bounds"][0]["e"] + 0.6
+hk = spec["hook"]; hd = T["bounds"][0]["e"] + (0.6 if len(T["bounds"]) < 2 or "chapter" not in T["bounds"][1] else 0.0); hd = max(hd, 1.6)
 clip("hook", 0, hd, f'<div class="kick">{H.escape(hk["kicker"])}</div><div class="h1">{H.escape(hk["l1"])}</div><div class="h2">{H.escape(hk["l2"])}</div>', "hookwrap")
 tl.append('tl.from("#hook .kick",{scaleX:0,transformOrigin:"0 50%",duration:0.3,ease:"power3.out"},0.05);')
 tl.append('tl.from("#hook .h1",{scale:2.2,opacity:0,duration:0.32,ease:"power4.out"},0.12);')

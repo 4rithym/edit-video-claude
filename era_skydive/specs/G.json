@@ -1,0 +1,14 @@
+{"id": "G_carikazad", "hook": {"kicker": "DARI UDARA KE UDARA 14,000 KAKI", "l1": "MANA SATU", "l2": "PAK AZAD?!"},
+ "keywords": ["azad", "biru", "kuning", "made", "it", "go"], "fix": {"Pazart": "Pak Azad", "Bel": "Bil"}, "names": [],
+ "shots": [
+  {"src": "IMG_2574", "a": 9.0, "b": 10.4, "sfx": "impact"},
+  {"src": "IMG_2574", "a": 0.0, "b": 3.45, "chapter": "PASUKAN DI BAWAH"},
+  {"src": "IMG_2574", "a": 10.4, "b": 17.6, "vol": 0.6, "cap": false},
+  {"src": "IMG_2574", "a": 19.7, "b": 20.6},
+  {"src": "IMG_2574", "a": 22.15, "b": 24.0},
+  {"src": "IMG_2574", "a": 24.0, "b": 26.5, "vol": 0.6, "cap": false},
+  {"src": "IMG_2574", "a": 30.75, "b": 31.8},
+  {"src": "GX010125", "a": 2.0, "b": 16.0, "vol": 0.4, "cap": false, "chapter": "MENDARAT!", "sfx": "whoosh"},
+  {"src": "GX010125", "a": 16.4, "b": 22.5},
+  {"src": "IMG_2589", "a": 2.9, "b": 5.85, "chapter": "SELAMAT!", "sfx": "whoosh"}
+ ]}

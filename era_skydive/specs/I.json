@@ -1,0 +1,13 @@
+{"id": "I_talkeasy", "hook": {"kicker": "PAK AZAD LEPAS 14,000 KAKI", "l1": "CAKAP SENANG,", "l2": "BUAT SUSAH!"},
+ "keywords": ["talk", "easy", "action", "difficult", "free", "fall", "best", "era", "cabaran", "can", "do", "it", "nyanyi", "anak", "gila"], "fix": {"3p": "3PE", "setiap": "sekian"},
+ "names": [{"t_shot": 0, "at": 0.3, "name": "PAK AZAD", "role": "Penyampai 3Pagi ERA"}],
+ "shots": [
+  {"src": "IMG_2590", "a": 17.85, "b": 20.6, "sfx": "impact"},
+  {"src": "IMG_2590", "a": 20.6, "b": 25.3, "vsrc": {"src": "GX010123", "a": 7.0}},
+  {"src": "IMG_2590", "a": 27.75, "b": 31.9, "vsrc": {"src": "GX010124", "a": 11.5}, "sfx": "whoosh"},
+  {"src": "IMG_2590", "a": 38.55, "b": 42.45, "vsrc": {"src": "GX010124", "a": 18.0, "x": 0.58}},
+  {"src": "IMG_2590", "a": 49.65, "b": 51.6, "vsrc": {"src": "GX010124", "a": 36.0}},
+  {"src": "IMG_2590", "a": 53.65, "b": 58.6},
+  {"src": "IMG_2590", "a": 61.85, "b": 66.85, "vsrc": {"src": "GX010124", "a": 45.0}},
+  {"src": "IMG_2590", "a": 66.85, "b": 71.95}
+ ]}
