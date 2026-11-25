@@ -1,0 +1,59 @@
+{
+ "id": "f03_hariharian",
+ "grade": "eq=contrast=1.05:saturation=1.06,colorbalance=rm=0.02:bm=0.01",
+ "hook": {
+  "l1": "Kena trade",
+  "l2": "hari-hari?"
+ },
+ "keywords": [
+  "loss",
+  "trader",
+  "trading",
+  "market",
+  "setup",
+  "entry",
+  "sl",
+  "plan",
+  "discipline",
+  "emosi",
+  "process",
+  "decision",
+  "tools",
+  "indicator",
+  "profit",
+  "28",
+  "november",
+  "new",
+  "era",
+  "development",
+  "chapter",
+  "different",
+  "something",
+  "confirmation",
+  "risk"
+ ],
+ "fix": {},
+ "banner": "FIRA_NEW_ERA_TIKTOK_BANNER_03.png",
+ "shots": [
+  {
+   "src": "NE03",
+   "a": 0.0,
+   "b": 10.65
+  },
+  {
+   "src": "NE03",
+   "a": 10.65,
+   "b": 21.57
+  },
+  {
+   "src": "NE03",
+   "a": 21.57,
+   "b": 31.45
+  },
+  {
+   "src": "NE03",
+   "a": 31.45,
+   "b": 41.12
+  }
+ ]
+}

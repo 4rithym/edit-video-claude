@@ -1,0 +1,42 @@
+@font-face{font-family:"HF Inter";src:url("assets/fonts/InterDisplay-Bold.otf");font-weight:700}
+@font-face{font-family:"HF Inter";src:url("assets/fonts/InterDisplay-ExtraBold.otf");font-weight:800}
+@font-face{font-family:"HF Inter";src:url("assets/fonts/InterDisplay-Black.otf");font-weight:900}
+@font-face{font-family:"Playfair";src:url("assets/fonts/PlayfairDisplay-Italic.ttf");font-style:italic;font-weight:400 900}
+:root{--pink:#ff3e8a;--pink2:#ff8fbd;--ink:#140810;--font:"HF Inter",sans-serif}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;background:#000}
+#root{position:relative;width:1080px;height:1920px;overflow:hidden;font-family:var(--font);color:#fff}
+.clip{position:absolute}
+#stage{position:absolute;inset:0;transform-origin:50% 38%}
+#vid{left:0;top:0;width:1080px;height:1920px;object-fit:cover}
+#shade{inset:0;pointer-events:none;background:linear-gradient(180deg,rgba(20,8,16,.55) 0%,rgba(0,0,0,0) 18%,rgba(0,0,0,0) 55%,rgba(20,8,16,.55) 78%,rgba(20,8,16,.35) 100%)}
+/* brand */
+.logowrap{left:54px;top:96px}
+.logowrap img{width:300px;filter:drop-shadow(0 3px 10px rgba(0,0,0,.6))}
+.newrap{right:54px;top:92px}
+.nepill{display:flex;flex-direction:column;align-items:flex-end;text-align:right}
+.nepill b{font-family:"Playfair",serif;font-style:italic;font-weight:800;font-size:46px;color:#fff;text-shadow:0 0 18px rgba(255,62,138,.85),0 2px 6px rgba(0,0,0,.6);letter-spacing:.01em}
+.nepill span{margin-top:2px;font-weight:800;font-size:22px;letter-spacing:.16em;color:var(--pink2);text-shadow:0 2px 6px rgba(0,0,0,.7)}
+/* hook */
+.hookwrap{left:60px;right:60px;top:260px;text-align:center}
+.hk1{display:inline-block;font-family:"Playfair",serif;font-style:italic;font-weight:800;font-size:84px;line-height:1.05;color:#fff;text-shadow:0 4px 24px rgba(0,0,0,.6)}
+.hk2{margin-top:12px;display:inline-block;background:var(--pink);color:#fff;font-weight:900;font-size:58px;letter-spacing:-.01em;padding:10px 30px;border-radius:999px;box-shadow:0 10px 30px rgba(255,62,138,.45)}
+/* captions */
+.capwrap{left:50px;width:980px;top:1230px;display:flex;justify-content:center}
+.capwrap.hi{top:1040px}
+.cap{text-align:center;font-weight:800;font-size:76px;line-height:1.1;letter-spacing:-.02em}
+.cap .w{display:inline-block;margin:0 9px;color:rgba(255,255,255,.55);text-shadow:0 4px 18px rgba(0,0,0,.8),0 0 2px rgba(0,0,0,.9)}
+.cap .w.on{color:#fff}
+.cap .w.k.on{color:var(--pink2)}
+/* banner */
+.banwrap{left:0;top:0;width:1080px;height:1920px}
+.banwrap img{width:1080px;height:1920px}
+/* end card */
+.endcard{inset:0;overflow:hidden;background:#140810}
+.e-bg{position:absolute;inset:0;width:1080px;height:1920px}
+.end-in{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:0 50px}
+.e-poster{width:1000px;border-radius:24px;box-shadow:0 30px 80px rgba(0,0,0,.6),0 0 0 3px rgba(255,143,189,.5)}
+.e-date{margin-top:60px;font-weight:800;font-size:52px;letter-spacing:-.01em}
+.e-cta{margin-top:40px;background:var(--pink);font-weight:900;font-size:82px;padding:16px 46px;border-radius:999px;box-shadow:0 14px 40px rgba(255,62,138,.5)}
+.e-sub{margin-top:18px;font-weight:700;font-size:40px;color:rgba(255,255,255,.85)}
+.e-acc{margin-top:54px;display:flex;gap:30px;font-weight:800;font-size:34px;color:var(--pink2)}

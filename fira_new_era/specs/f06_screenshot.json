@@ -1,0 +1,64 @@
+{
+ "id": "f06_screenshot",
+ "grade": "eq=contrast=1.05:saturation=1.06,colorbalance=rm=0.02:bm=0.01",
+ "hook": {
+  "l1": "Screenshot profit orang",
+  "l2": "boleh buat you rugi?"
+ },
+ "keywords": [
+  "loss",
+  "trader",
+  "trading",
+  "market",
+  "setup",
+  "entry",
+  "sl",
+  "plan",
+  "discipline",
+  "emosi",
+  "process",
+  "decision",
+  "tools",
+  "indicator",
+  "profit",
+  "28",
+  "november",
+  "new",
+  "era",
+  "development",
+  "chapter",
+  "different",
+  "something",
+  "confirmation",
+  "risk"
+ ],
+ "fix": {},
+ "banner": "FIRA_NEW_ERA_TIKTOK_BANNER_02.png",
+ "shots": [
+  {
+   "src": "NE06",
+   "a": 0.0,
+   "b": 10.45
+  },
+  {
+   "src": "NE06",
+   "a": 10.45,
+   "b": 20.33
+  },
+  {
+   "src": "NE06",
+   "a": 20.33,
+   "b": 31.43
+  },
+  {
+   "src": "NE06",
+   "a": 31.43,
+   "b": 42.45
+  },
+  {
+   "src": "NE06",
+   "a": 42.45,
+   "b": 48.4
+  }
+ ]
+}

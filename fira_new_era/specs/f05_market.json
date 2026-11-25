@@ -1,0 +1,64 @@
+{
+ "id": "f05_market",
+ "grade": "eq=contrast=1.05:saturation=1.06,colorbalance=rm=0.02:bm=0.01",
+ "hook": {
+  "l1": "Market tak kisah",
+  "l2": "you betul ke salah."
+ },
+ "keywords": [
+  "loss",
+  "trader",
+  "trading",
+  "market",
+  "setup",
+  "entry",
+  "sl",
+  "plan",
+  "discipline",
+  "emosi",
+  "process",
+  "decision",
+  "tools",
+  "indicator",
+  "profit",
+  "28",
+  "november",
+  "new",
+  "era",
+  "development",
+  "chapter",
+  "different",
+  "something",
+  "confirmation",
+  "risk"
+ ],
+ "fix": {},
+ "banner": "FIRA_NEW_ERA_TIKTOK_BANNER_01.png",
+ "shots": [
+  {
+   "src": "NE05",
+   "a": 0.0,
+   "b": 8.77
+  },
+  {
+   "src": "NE05",
+   "a": 8.77,
+   "b": 17.31
+  },
+  {
+   "src": "NE05",
+   "a": 17.31,
+   "b": 25.95
+  },
+  {
+   "src": "NE05",
+   "a": 25.95,
+   "b": 37.79
+  },
+  {
+   "src": "NE05",
+   "a": 37.79,
+   "b": 43.5
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "id": "f09_kenapaloss",
+ "grade": "eq=contrast=1.05:saturation=1.06,colorbalance=rm=0.02:bm=0.01",
+ "hook": {
+  "l1": "Kenapa you loss?",
+  "l2": "Boleh jawab tak?"
+ },
+ "keywords": [
+  "loss",
+  "trader",
+  "trading",
+  "market",
+  "setup",
+  "entry",
+  "sl",
+  "plan",
+  "discipline",
+  "emosi",
+  "process",
+  "decision",
+  "tools",
+  "indicator",
+  "profit",
+  "28",
+  "november",
+  "new",
+  "era",
+  "development",
+  "chapter",
+  "different",
+  "something",
+  "confirmation",
+  "risk"
+ ],
+ "fix": {
+  "dah": "nak",
+  "training": "trading"
+ },
+ "banner": "FIRA_NEW_ERA_TIKTOK_BANNER_01.png",
+ "shots": [
+  {
+   "src": "NE09",
+   "a": 0.0,
+   "b": 12.07
+  },
+  {
+   "src": "NE09",
+   "a": 12.07,
+   "b": 21.55
+  },
+  {
+   "src": "NE09",
+   "a": 21.55,
+   "b": 29.95
+  },
+  {
+   "src": "NE09",
+   "a": 29.95,
+   "b": 39.11
+  },
+  {
+   "src": "NE09",
+   "a": 39.11,
+   "b": 49.63
+  },
+  {
+   "src": "NE09",
+   "a": 49.63,
+   "b": 53.85
+  }
+ ]
+}

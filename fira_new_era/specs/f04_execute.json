@@ -1,0 +1,69 @@
+{
+ "id": "f04_execute",
+ "grade": "eq=contrast=1.05:saturation=1.06,colorbalance=rm=0.02:bm=0.01",
+ "hook": {
+  "l1": "Plan dah cantik,",
+  "l2": "tapi masa entry?"
+ },
+ "keywords": [
+  "loss",
+  "trader",
+  "trading",
+  "market",
+  "setup",
+  "entry",
+  "sl",
+  "plan",
+  "discipline",
+  "emosi",
+  "process",
+  "decision",
+  "tools",
+  "indicator",
+  "profit",
+  "28",
+  "november",
+  "new",
+  "era",
+  "development",
+  "chapter",
+  "different",
+  "something",
+  "confirmation",
+  "risk"
+ ],
+ "fix": {},
+ "banner": "FIRA_NEW_ERA_TIKTOK_BANNER_05.png",
+ "shots": [
+  {
+   "src": "NE04",
+   "a": 0.0,
+   "b": 8.65
+  },
+  {
+   "src": "NE04",
+   "a": 8.65,
+   "b": 16.93
+  },
+  {
+   "src": "NE04",
+   "a": 16.93,
+   "b": 25.49
+  },
+  {
+   "src": "NE04",
+   "a": 25.49,
+   "b": 33.61
+  },
+  {
+   "src": "NE04",
+   "a": 33.61,
+   "b": 42.91
+  },
+  {
+   "src": "NE04",
+   "a": 42.91,
+   "b": 45.8
+  }
+ ]
+}

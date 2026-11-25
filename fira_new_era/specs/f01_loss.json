@@ -1,0 +1,61 @@
+{
+ "id": "f01_loss",
+ "grade": "eq=contrast=1.05:saturation=1.06,colorbalance=rm=0.02:bm=0.01",
+ "hook": {
+  "l1": "Tak boleh terima loss?",
+  "l2": "Baca ni dulu."
+ },
+ "keywords": [
+  "loss",
+  "trader",
+  "trading",
+  "market",
+  "setup",
+  "entry",
+  "sl",
+  "plan",
+  "discipline",
+  "emosi",
+  "process",
+  "decision",
+  "tools",
+  "indicator",
+  "profit",
+  "28",
+  "november",
+  "new",
+  "era",
+  "development",
+  "chapter",
+  "different",
+  "something",
+  "confirmation",
+  "risk"
+ ],
+ "fix": {
+  "MC": "MC"
+ },
+ "banner": "FIRA_NEW_ERA_TIKTOK_BANNER_01.png",
+ "shots": [
+  {
+   "src": "NE01",
+   "a": 0.0,
+   "b": 9.35
+  },
+  {
+   "src": "NE01",
+   "a": 9.35,
+   "b": 18.47
+  },
+  {
+   "src": "NE01",
+   "a": 18.47,
+   "b": 28.51
+  },
+  {
+   "src": "NE01",
+   "a": 28.51,
+   "b": 35.5
+  }
+ ]
+}

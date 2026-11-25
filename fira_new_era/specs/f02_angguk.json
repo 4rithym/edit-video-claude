@@ -1,0 +1,62 @@
+{
+ "id": "f02_angguk",
+ "grade": "eq=contrast=1.05:saturation=1.06,colorbalance=rm=0.02:bm=0.01",
+ "hook": {
+  "l1": "Angguk faham\u2026",
+  "l2": "balik rumah blur?"
+ },
+ "keywords": [
+  "loss",
+  "trader",
+  "trading",
+  "market",
+  "setup",
+  "entry",
+  "sl",
+  "plan",
+  "discipline",
+  "emosi",
+  "process",
+  "decision",
+  "tools",
+  "indicator",
+  "profit",
+  "28",
+  "november",
+  "new",
+  "era",
+  "development",
+  "chapter",
+  "different",
+  "something",
+  "confirmation",
+  "risk"
+ ],
+ "fix": {
+  "cat": "chart",
+  "belanja": "belajar"
+ },
+ "banner": "FIRA_NEW_ERA_TIKTOK_BANNER_02.png",
+ "shots": [
+  {
+   "src": "NE02",
+   "a": 0.0,
+   "b": 9.43
+  },
+  {
+   "src": "NE02",
+   "a": 9.43,
+   "b": 21.03
+  },
+  {
+   "src": "NE02",
+   "a": 21.03,
+   "b": 30.99
+  },
+  {
+   "src": "NE02",
+   "a": 30.99,
+   "b": 38.7
+  }
+ ]
+}

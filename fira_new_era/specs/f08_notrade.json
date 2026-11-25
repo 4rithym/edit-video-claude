@@ -1,0 +1,66 @@
+{
+ "id": "f08_notrade",
+ "grade": "eq=contrast=1.05:saturation=1.06,colorbalance=rm=0.02:bm=0.01",
+ "hook": {
+  "l1": "Best trade",
+  "l2": "is no trade."
+ },
+ "keywords": [
+  "loss",
+  "trader",
+  "trading",
+  "market",
+  "setup",
+  "entry",
+  "sl",
+  "plan",
+  "discipline",
+  "emosi",
+  "process",
+  "decision",
+  "tools",
+  "indicator",
+  "profit",
+  "28",
+  "november",
+  "new",
+  "era",
+  "development",
+  "chapter",
+  "different",
+  "something",
+  "confirmation",
+  "risk"
+ ],
+ "fix": {
+  "this": "traders"
+ },
+ "banner": "FIRA_NEW_ERA_TIKTOK_BANNER_05.png",
+ "shots": [
+  {
+   "src": "NE08",
+   "a": 0.0,
+   "b": 8.73
+  },
+  {
+   "src": "NE08",
+   "a": 8.73,
+   "b": 17.75
+  },
+  {
+   "src": "NE08",
+   "a": 17.75,
+   "b": 28.37
+  },
+  {
+   "src": "NE08",
+   "a": 28.37,
+   "b": 36.37
+  },
+  {
+   "src": "NE08",
+   "a": 36.37,
+   "b": 41.25
+  }
+ ]
+}

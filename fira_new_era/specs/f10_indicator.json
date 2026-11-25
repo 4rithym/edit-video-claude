@@ -1,0 +1,91 @@
+{
+ "id": "f10_indicator",
+ "grade": "eq=contrast=1.05:saturation=1.06,colorbalance=rm=0.02:bm=0.01",
+ "hook": {
+  "l1": "Kalau semua indicator",
+  "l2": "dibuang\u2026"
+ },
+ "keywords": [
+  "loss",
+  "trader",
+  "trading",
+  "market",
+  "setup",
+  "entry",
+  "sl",
+  "plan",
+  "discipline",
+  "emosi",
+  "process",
+  "decision",
+  "tools",
+  "indicator",
+  "profit",
+  "28",
+  "november",
+  "new",
+  "era",
+  "development",
+  "chapter",
+  "different",
+  "something",
+  "confirmation",
+  "risk"
+ ],
+ "fix": {
+  "chat": "chart",
+  "dupa": "28",
+  "pandang": "November"
+ },
+ "banner": "FIRA_NEW_ERA_TIKTOK_BANNER_02.png",
+ "shots": [
+  {
+   "src": "NE10",
+   "a": 0.0,
+   "b": 11.87,
+   "drop": [
+    "member"
+   ]
+  },
+  {
+   "src": "NE10",
+   "a": 11.87,
+   "b": 20.35,
+   "drop": [
+    "member"
+   ]
+  },
+  {
+   "src": "NE10",
+   "a": 20.35,
+   "b": 29.09,
+   "drop": [
+    "member"
+   ]
+  },
+  {
+   "src": "NE10",
+   "a": 29.09,
+   "b": 38.27,
+   "drop": [
+    "member"
+   ]
+  },
+  {
+   "src": "NE10",
+   "a": 38.27,
+   "b": 49.43,
+   "drop": [
+    "member"
+   ]
+  },
+  {
+   "src": "NE10",
+   "a": 49.43,
+   "b": 51.75,
+   "drop": [
+    "member"
+   ]
+  }
+ ]
+}

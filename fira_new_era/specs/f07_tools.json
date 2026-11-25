@@ -1,0 +1,71 @@
+{
+ "id": "f07_tools",
+ "grade": "eq=contrast=1.05:saturation=1.06,colorbalance=rm=0.02:bm=0.01",
+ "hook": {
+  "l1": "Tools dah canggih,",
+  "l2": "tapi kenapa masih loss?"
+ },
+ "keywords": [
+  "loss",
+  "trader",
+  "trading",
+  "market",
+  "setup",
+  "entry",
+  "sl",
+  "plan",
+  "discipline",
+  "emosi",
+  "process",
+  "decision",
+  "tools",
+  "indicator",
+  "profit",
+  "28",
+  "november",
+  "new",
+  "era",
+  "development",
+  "chapter",
+  "different",
+  "something",
+  "confirmation",
+  "risk"
+ ],
+ "fix": {
+  "delivers": "reverse"
+ },
+ "banner": "FIRA_NEW_ERA_TIKTOK_BANNER_03.png",
+ "shots": [
+  {
+   "src": "NE07",
+   "a": 0.0,
+   "b": 8.59
+  },
+  {
+   "src": "NE07",
+   "a": 8.59,
+   "b": 18.23
+  },
+  {
+   "src": "NE07",
+   "a": 18.23,
+   "b": 26.39
+  },
+  {
+   "src": "NE07",
+   "a": 26.39,
+   "b": 36.77
+  },
+  {
+   "src": "NE07",
+   "a": 36.77,
+   "b": 46.93
+  },
+  {
+   "src": "NE07",
+   "a": 46.93,
+   "b": 50.8
+  }
+ ]
+}
