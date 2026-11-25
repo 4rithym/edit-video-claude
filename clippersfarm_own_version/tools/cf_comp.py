@@ -7,7 +7,7 @@ os.makedirs(f"{P}/assets/sfx", exist_ok=True)
 if not os.path.exists(f"{P}/assets/fonts"): shutil.copytree(f"{REPO}/project/assets/fonts", f"{P}/assets/fonts")
 for f in os.listdir(f"{REPO}/project/assets/sfx"): shutil.copy(f"{REPO}/project/assets/sfx/{f}", f"{P}/assets/sfx/{f}")
 shutil.copy(f"{REPO}/project/assets/gsap.min.js", f"{P}/assets/gsap.min.js"); shutil.copy(f"{D}/cut.mp4", f"{P}/assets/cut.mp4")
-VID = T["total"]; END = 3.4; TOTAL = VID + END
+VID = T["total"]; END = max(3.4, 31.0 - VID); TOTAL = VID + END
 KEY = {k.lower() for k in spec.get("keywords", [])}
 FIX = {"Creepers": "Clippers", "clipers": "Clippers", "berjadi": "boleh jadi", "bag": "beg", "CDA": "CTA", "Shots": "Shorts",
        "tersimpat": "tersimpan", "books": "hooks", "hoax": "hooks", "hopes": "hooks", **spec.get("fix", {})}
