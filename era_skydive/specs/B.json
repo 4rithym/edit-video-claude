@@ -1,0 +1,111 @@
+{
+ "id": "B_azad",
+ "hook": {
+  "kicker": "PAK AZAD LEPAS FREEFALL 14,000 KAKI",
+  "l1": "TAK BEST\u2026",
+  "l2": "TAPI BEST!"
+ },
+ "keywords": [
+  "azad",
+  "ready",
+  "free",
+  "fall",
+  "best",
+  "era",
+  "cabaran",
+  "great",
+  "time",
+  "can",
+  "do",
+  "it",
+  "nyanyi",
+  "anak"
+ ],
+ "fix": {
+  "setiap": "sekian",
+  "fall": "fall"
+ },
+ "names": [
+  {
+   "t_shot": 1,
+   "at": 0.4,
+   "name": "PAK AZAD",
+   "role": "Penyampai 3Pagi ERA"
+  }
+ ],
+ "shots": [
+  {
+   "src": "IMG_2590",
+   "a": 38.5,
+   "b": 42.45,
+   "sfx": "impact"
+  },
+  {
+   "src": "GX010123",
+   "a": 5.5,
+   "b": 14.0,
+   "vol": 0.6,
+   "cap": false,
+   "chapter": "DALAM PESAWAT",
+   "sfx": "whoosh"
+  },
+  {
+   "src": "GX010124",
+   "a": 6.0,
+   "b": 11.5,
+   "vol": 0.35,
+   "cap": false,
+   "chapter": "14,000 KAKI",
+   "sfx": "riser",
+   "x": 0.45
+  },
+  {
+   "src": "GX010124",
+   "a": 11.5,
+   "b": 14.5,
+   "vol": 0.12,
+   "cap": false,
+   "chapter": "FREEFALL!",
+   "sfx": "whoosh"
+  },
+  {
+   "src": "GX010124",
+   "a": 19.5,
+   "b": 23.5,
+   "vol": 0.12,
+   "cap": false,
+   "x": 0.6
+  },
+  {
+   "src": "GX010124",
+   "a": 36.0,
+   "b": 40.5,
+   "vol": 0.12,
+   "cap": false
+  },
+  {
+   "src": "GX010124",
+   "a": 50.0,
+   "b": 53.0,
+   "vol": 0.12,
+   "cap": false
+  },
+  {
+   "src": "GX010125",
+   "a": 16.4,
+   "b": 22.5,
+   "chapter": "MENDARAT!",
+   "sfx": "whoosh"
+  },
+  {
+   "src": "IMG_2590",
+   "a": 49.65,
+   "b": 51.6
+  },
+  {
+   "src": "IMG_2590",
+   "a": 61.85,
+   "b": 71.95
+  }
+ ]
+}

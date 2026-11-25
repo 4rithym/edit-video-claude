@@ -1,0 +1,132 @@
+{
+ "id": "A_nabil",
+ "hook": {
+  "kicker": "DARI UDARA KE UDARA",
+  "l1": "14,000 KAKI,",
+  "l2": "BERANI KE TAK?"
+ },
+ "keywords": [
+  "nabil",
+  "malaysia",
+  "skydiving",
+  "excited",
+  "ready",
+  "era",
+  "mbsb",
+  "fantastik",
+  "sky",
+  "kita",
+  "lakukan"
+ ],
+ "fix": {
+  "MBSP": "MBSB",
+  "Ops": "Dropzone"
+ },
+ "names": [
+  {
+   "t_shot": 1,
+   "at": 2.2,
+   "name": "NABIL",
+   "role": "Penyampai 3Pagi ERA"
+  }
+ ],
+ "shots": [
+  {
+   "src": "GX019648",
+   "a": 14.6,
+   "b": 17.4,
+   "vol": 0.15,
+   "cap": false,
+   "sfx": "impact"
+  },
+  {
+   "src": "GX019644",
+   "a": 7.2,
+   "b": 18.3,
+   "chapter": "SEBELUM TERJUN",
+   "drop": [
+    "on"
+   ]
+  },
+  {
+   "src": "GX019644",
+   "a": 22.15,
+   "b": 26.4
+  },
+  {
+   "src": "GX019646",
+   "a": 9.5,
+   "b": 12.0,
+   "vol": 0.3,
+   "cap": false,
+   "chapter": "NAIK PESAWAT",
+   "sfx": "whoosh"
+  },
+  {
+   "src": "GX019647",
+   "a": 7.0,
+   "b": 12.5,
+   "vol": 0.5,
+   "cap": false
+  },
+  {
+   "src": "GX019648",
+   "a": 9.0,
+   "b": 14.6,
+   "vol": 0.4,
+   "cap": false,
+   "chapter": "14,000 KAKI",
+   "sfx": "riser"
+  },
+  {
+   "src": "GX019648",
+   "a": 14.6,
+   "b": 18.0,
+   "vol": 0.12,
+   "cap": false,
+   "chapter": "FREEFALL!",
+   "sfx": "whoosh"
+  },
+  {
+   "src": "GX019648",
+   "a": 23.0,
+   "b": 27.0,
+   "vol": 0.12,
+   "cap": false
+  },
+  {
+   "src": "GX019648",
+   "a": 33.0,
+   "b": 35.5,
+   "vol": 0.12,
+   "cap": false
+  },
+  {
+   "src": "GX019648",
+   "a": 44.5,
+   "b": 47.5,
+   "vol": 0.12,
+   "cap": false
+  },
+  {
+   "src": "GX019649",
+   "a": 12.2,
+   "b": 16.0,
+   "x": 0.62,
+   "chapter": "MENDARAT!",
+   "sfx": "whoosh"
+  },
+  {
+   "src": "GX019649",
+   "a": 16.0,
+   "b": 20.7,
+   "x": 0.45
+  },
+  {
+   "src": "GX019649",
+   "a": 49.3,
+   "b": 53.6,
+   "x": 0.42
+  }
+ ]
+}

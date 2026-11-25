@@ -1,0 +1,46 @@
+@font-face{font-family:"Barlow C";src:url("assets/fonts/BarlowCondensed-BlackItalic.ttf");font-weight:900;font-style:italic}
+@font-face{font-family:"Barlow C";src:url("assets/fonts/BarlowCondensed-ExtraBoldItalic.ttf");font-weight:800;font-style:italic}
+@font-face{font-family:"Barlow C";src:url("assets/fonts/BarlowCondensed-Bold.ttf");font-weight:700;font-style:normal}
+:root{--navy:#0b2c6b;--navy2:#071d4a;--blue:#1e6fd9;--green:#8dc63f;--font:"Barlow C",sans-serif}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1920px;overflow:hidden;background:#000}
+#root{position:relative;width:1080px;height:1920px;overflow:hidden;font-family:var(--font);color:#fff}
+.clip{position:absolute}
+#stage{position:absolute;inset:0;transform-origin:50% 45%}
+#vid{left:0;top:0;width:1080px;height:1920px;object-fit:cover}
+#shade{inset:0;pointer-events:none;background:linear-gradient(180deg,rgba(7,29,74,.45) 0%,rgba(0,0,0,0) 16%,rgba(0,0,0,0) 58%,rgba(7,29,74,.45) 80%,rgba(7,29,74,.2) 100%)}
+.flash{inset:0;background:#fff}
+/* hook */
+.hookwrap{left:60px;right:60px;top:300px;display:flex;flex-direction:column;align-items:flex-start}
+.kick{background:var(--navy);font-weight:800;font-style:italic;font-size:44px;letter-spacing:.04em;padding:8px 26px 10px;transform:skewX(-12deg);box-shadow:8px 8px 0 var(--green)}
+.h1,.h2{font-weight:900;font-style:italic;font-size:132px;line-height:.92;letter-spacing:-.01em;text-transform:uppercase;color:#fff;-webkit-text-stroke:16px var(--navy);paint-order:stroke fill;text-shadow:0 14px 40px rgba(0,0,0,.45);margin-top:14px;transform-origin:0 60%}
+.h2{color:var(--green)}
+/* logo */
+.logowrap{right:40px;top:56px;background:#fff;border-radius:18px;padding:12px 20px 10px;box-shadow:0 8px 24px rgba(0,0,0,.35)}
+.logowrap img{display:block;width:190px}
+/* chapter */
+.chapwrap{left:0;top:250px}
+.chap{background:var(--navy);padding:14px 40px 16px 60px;transform:skewX(-12deg);transform-origin:0 0;border-right:14px solid var(--green);box-shadow:0 10px 30px rgba(0,0,0,.35)}
+.chap span{display:block;font-weight:900;font-style:italic;font-size:68px;letter-spacing:.02em}
+/* name */
+.namewrap{left:60px;top:1010px;display:flex;flex-direction:column;align-items:flex-start;overflow:hidden}
+.name b{display:block;background:#fff;color:var(--navy);font-weight:900;font-style:italic;font-size:80px;line-height:1;padding:8px 26px 6px}
+.name span{display:block;background:var(--green);color:var(--navy2);font-weight:800;font-style:italic;font-size:36px;padding:6px 22px}
+/* captions */
+.capwrap{left:50px;width:980px;top:1240px;display:flex;justify-content:center}
+.cap{text-align:center;font-weight:900;font-style:italic;font-size:96px;line-height:1.02;text-transform:uppercase}
+.cap .w{display:inline-block;margin:0 12px;color:#fff;-webkit-text-stroke:14px var(--navy2);paint-order:stroke fill;text-shadow:0 8px 24px rgba(0,0,0,.5)}
+.cap .w.on{color:#fff}
+.cap .w.k.on,.cap .w.k{color:var(--green)}
+/* end card */
+.endcard{inset:0;background:radial-gradient(90% 60% at 50% 40%,#1550b8 0%,var(--navy) 55%,var(--navy2) 100%);display:flex;align-items:center;justify-content:center;overflow:hidden}
+.endcard::before{content:"";position:absolute;left:-10%;right:-10%;top:58%;height:260px;background:rgba(255,255,255,.06);transform:skewY(-8deg)}
+.end-in{position:relative;display:flex;flex-direction:column;align-items:center;text-align:center}
+.e-logo{width:360px;margin-bottom:40px;filter:drop-shadow(0 6px 20px rgba(0,0,0,.4))}
+.e-k{font-weight:800;font-style:italic;font-size:64px;letter-spacing:.04em}
+.e-big{font-weight:900;font-style:italic;font-size:200px;line-height:.95;color:#fff;-webkit-text-stroke:10px var(--navy2);paint-order:stroke fill}
+.e-tag{margin-top:46px;background:var(--green);color:var(--navy2);font-weight:900;font-style:italic;font-size:52px;padding:10px 30px}
+.e-sp{margin-top:60px;display:flex;align-items:center;gap:18px;font-weight:800;font-style:italic;font-size:36px;color:rgba(255,255,255,.9)}
+.e-sp i{width:2px;height:44px;background:rgba(255,255,255,.4)}
+.e-sp img{height:54px;background:#fff;padding:8px 14px;border-radius:6px}
+.e-sp b{font-size:40px}.e-sp em{font-style:italic;font-weight:900;font-size:44px;color:var(--green)}
