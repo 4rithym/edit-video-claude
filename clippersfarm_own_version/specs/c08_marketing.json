@@ -1,0 +1,46 @@
+{
+ "id": "c08_marketing",
+ "grade": "eq=contrast=1.04:saturation=1.06,colorbalance=rm=0.01:bm=-0.01",
+ "hook": {
+  "kicker": "MARKETING TEAM",
+  "l1": "Tak perlu shoot",
+  "l2": "dari scratch."
+ },
+ "keywords": [
+  "clippers",
+  "farm",
+  "content",
+  "distribution",
+  "views",
+  "brand",
+  "campaign",
+  "footage",
+  "short",
+  "form",
+  "verified",
+  "organic",
+  "ads",
+  "audience",
+  "clips",
+  "hooks",
+  "cta"
+ ],
+ "fix": {},
+ "shots": [
+  {
+   "src": "IMG_5430",
+   "a": 31.52,
+   "b": 34.88
+  },
+  {
+   "src": "IMG_5430",
+   "a": 0,
+   "b": 31.52
+  },
+  {
+   "src": "IMG_5430",
+   "a": 35.12,
+   "b": 37.83
+  }
+ ]
+}

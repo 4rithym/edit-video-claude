@@ -1,0 +1,49 @@
+{
+ "id": "c09_fnb",
+ "grade": "eq=contrast=1.04:saturation=1.06,colorbalance=rm=0.01:bm=-0.01",
+ "hook": {
+  "kicker": "F&B BRANDS",
+  "l1": "Satu video",
+  "l2": "tak cukup!"
+ },
+ "keywords": [
+  "clippers",
+  "farm",
+  "content",
+  "distribution",
+  "views",
+  "brand",
+  "campaign",
+  "footage",
+  "short",
+  "form",
+  "verified",
+  "organic",
+  "ads",
+  "audience",
+  "clips",
+  "hooks",
+  "cta"
+ ],
+ "fix": {
+  "kerusak": "close-up",
+  "full": "pull"
+ },
+ "shots": [
+  {
+   "src": "IMG_5775",
+   "a": 25.78,
+   "b": 27.82
+  },
+  {
+   "src": "IMG_5775",
+   "a": 0,
+   "b": 25.78
+  },
+  {
+   "src": "IMG_5775",
+   "a": 27.82,
+   "b": 30.83
+  }
+ ]
+}

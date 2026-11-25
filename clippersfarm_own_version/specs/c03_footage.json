@@ -1,0 +1,46 @@
+{
+ "id": "c03_footage",
+ "grade": "eq=contrast=1.04:saturation=1.06,colorbalance=rm=0.01:bm=-0.01",
+ "hook": {
+  "kicker": "BRAND OWNERS",
+  "l1": "Footage lama?",
+  "l2": "Jangan simpan je!"
+ },
+ "keywords": [
+  "clippers",
+  "farm",
+  "content",
+  "distribution",
+  "views",
+  "brand",
+  "campaign",
+  "footage",
+  "short",
+  "form",
+  "verified",
+  "organic",
+  "ads",
+  "audience",
+  "clips",
+  "hooks",
+  "cta"
+ ],
+ "fix": {},
+ "shots": [
+  {
+   "src": "IMG_2532",
+   "a": 8.46,
+   "b": 13.0
+  },
+  {
+   "src": "IMG_2532",
+   "a": 0,
+   "b": 8.46
+  },
+  {
+   "src": "IMG_2532",
+   "a": 13.0,
+   "b": 33.27
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "id": "c04_distribution",
+ "grade": "eq=contrast=1.04:saturation=1.06,colorbalance=rm=0.01:bm=-0.01",
+ "hook": {
+  "kicker": "CONTENT VS DISTRIBUTION",
+  "l1": "Content dah banyak?",
+  "l2": "Push lagi jauh."
+ },
+ "keywords": [
+  "clippers",
+  "farm",
+  "content",
+  "distribution",
+  "views",
+  "brand",
+  "campaign",
+  "footage",
+  "short",
+  "form",
+  "verified",
+  "organic",
+  "ads",
+  "audience",
+  "clips",
+  "hooks",
+  "cta"
+ ],
+ "fix": {},
+ "shots": [
+  {
+   "src": "IMG_4441",
+   "a": 37.46,
+   "b": 40.24
+  },
+  {
+   "src": "IMG_4441",
+   "a": 0,
+   "b": 37.46
+  },
+  {
+   "src": "IMG_4441",
+   "a": 40.72,
+   "b": 42.6
+  }
+ ]
+}

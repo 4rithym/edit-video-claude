@@ -1,0 +1,46 @@
+{
+ "id": "c07_podcast",
+ "grade": "eq=contrast=1.04:saturation=1.06,colorbalance=rm=0.01:bm=-0.01",
+ "hook": {
+  "kicker": "PODCAST HOST & STREAMER",
+  "l1": "1 episod =",
+  "l2": "banyak short clips."
+ },
+ "keywords": [
+  "clippers",
+  "farm",
+  "content",
+  "distribution",
+  "views",
+  "brand",
+  "campaign",
+  "footage",
+  "short",
+  "form",
+  "verified",
+  "organic",
+  "ads",
+  "audience",
+  "clips",
+  "hooks",
+  "cta"
+ ],
+ "fix": {},
+ "shots": [
+  {
+   "src": "IMG_5329",
+   "a": 6.92,
+   "b": 9.82
+  },
+  {
+   "src": "IMG_5329",
+   "a": 0,
+   "b": 6.92
+  },
+  {
+   "src": "IMG_5329",
+   "a": 9.96,
+   "b": 29.2
+  }
+ ]
+}

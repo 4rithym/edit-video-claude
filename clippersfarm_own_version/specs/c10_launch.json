@@ -1,0 +1,61 @@
+{
+ "id": "c10_launch",
+ "grade": "eq=contrast=1.04:saturation=1.06,colorbalance=rm=0.01:bm=-0.01",
+ "hook": {
+  "kicker": "SEBELUM LAUNCH PRODUCT",
+  "l1": "Plan content je?",
+  "l2": "Plan distribution!"
+ },
+ "keywords": [
+  "clippers",
+  "farm",
+  "content",
+  "distribution",
+  "views",
+  "brand",
+  "campaign",
+  "footage",
+  "short",
+  "form",
+  "verified",
+  "organic",
+  "ads",
+  "audience",
+  "clips",
+  "hooks",
+  "cta"
+ ],
+ "fix": {
+  "feed": "tapi"
+ },
+ "shots": [
+  {
+   "src": "IMG_8440",
+   "a": 26.44,
+   "b": 29.7
+  },
+  {
+   "src": "IMG_8440",
+   "a": 0,
+   "b": 12.0
+  },
+  {
+   "src": "IMG_8440",
+   "a": 12.0,
+   "b": 15.06,
+   "drop": [
+    "tak"
+   ]
+  },
+  {
+   "src": "IMG_8440",
+   "a": 15.06,
+   "b": 26.44
+  },
+  {
+   "src": "IMG_8440",
+   "a": 30.0,
+   "b": 31.73
+  }
+ ]
+}

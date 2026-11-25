@@ -1,0 +1,48 @@
+{
+ "id": "c01_ads",
+ "grade": "eq=contrast=1.04:saturation=1.06,colorbalance=rm=0.01:bm=-0.01",
+ "hook": {
+  "kicker": "UNTUK BRAND YANG DAH RUN ADS",
+  "l1": "Ads boleh stop.",
+  "l2": "Clips terus jalan."
+ },
+ "keywords": [
+  "clippers",
+  "farm",
+  "content",
+  "distribution",
+  "views",
+  "brand",
+  "campaign",
+  "footage",
+  "short",
+  "form",
+  "verified",
+  "organic",
+  "ads",
+  "audience",
+  "clips",
+  "hooks",
+  "cta"
+ ],
+ "fix": {
+  "camping": "campaign"
+ },
+ "shots": [
+  {
+   "src": "1019-02",
+   "a": 8.08,
+   "b": 14.44
+  },
+  {
+   "src": "1019-02",
+   "a": 0,
+   "b": 8.08
+  },
+  {
+   "src": "1019-02",
+   "a": 14.44,
+   "b": 35.48
+  }
+ ]
+}

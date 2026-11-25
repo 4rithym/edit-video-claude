@@ -1,0 +1,46 @@
+{
+ "id": "c06_variasi",
+ "grade": "eq=contrast=1.04:saturation=1.06,colorbalance=rm=0.01:bm=-0.01",
+ "hook": {
+  "kicker": "BUSINESS OWNERS",
+  "l1": "1 content,",
+  "l2": "banyak versi."
+ },
+ "keywords": [
+  "clippers",
+  "farm",
+  "content",
+  "distribution",
+  "views",
+  "brand",
+  "campaign",
+  "footage",
+  "short",
+  "form",
+  "verified",
+  "organic",
+  "ads",
+  "audience",
+  "clips",
+  "hooks",
+  "cta"
+ ],
+ "fix": {},
+ "shots": [
+  {
+   "src": "IMG_5211",
+   "a": 20.88,
+   "b": 25.7
+  },
+  {
+   "src": "IMG_5211",
+   "a": 0,
+   "b": 20.88
+  },
+  {
+   "src": "IMG_5211",
+   "a": 25.92,
+   "b": 32.33
+  }
+ ]
+}

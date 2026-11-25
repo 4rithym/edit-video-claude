@@ -1,0 +1,46 @@
+{
+ "id": "c02_influencer",
+ "grade": "eq=contrast=1.04:saturation=1.06,colorbalance=rm=0.01:bm=-0.01",
+ "hook": {
+  "kicker": "INFLUENCER VS CLIPPERS",
+  "l1": "Clippers Farm =",
+  "l2": "hire influencer?"
+ },
+ "keywords": [
+  "clippers",
+  "farm",
+  "content",
+  "distribution",
+  "views",
+  "brand",
+  "campaign",
+  "footage",
+  "short",
+  "form",
+  "verified",
+  "organic",
+  "ads",
+  "audience",
+  "clips",
+  "hooks",
+  "cta"
+ ],
+ "fix": {},
+ "shots": [
+  {
+   "src": "IMG_0672",
+   "a": 7.36,
+   "b": 12.46
+  },
+  {
+   "src": "IMG_0672",
+   "a": 0,
+   "b": 7.36
+  },
+  {
+   "src": "IMG_0672",
+   "a": 12.5,
+   "b": 26.03
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "c05_streamer",
+ "grade": "eq=contrast=1.04:saturation=1.06,colorbalance=rm=0.01:bm=-0.01",
+ "hook": {
+  "kicker": "UNTUK STREAMERS",
+  "l1": "1 stream,",
+  "l2": "banyak clips."
+ },
+ "keywords": [
+  "clippers",
+  "farm",
+  "content",
+  "distribution",
+  "views",
+  "brand",
+  "campaign",
+  "footage",
+  "short",
+  "form",
+  "verified",
+  "organic",
+  "ads",
+  "audience",
+  "clips",
+  "hooks",
+  "cta"
+ ],
+ "fix": {
+  "3": "stream",
+  "1": "one",
+  "font": "form"
+ },
+ "shots": [
+  {
+   "src": "IMG_5210",
+   "a": 24.96,
+   "b": 27.22
+  },
+  {
+   "src": "IMG_5210",
+   "a": 0,
+   "b": 24.96
+  },
+  {
+   "src": "IMG_5210",
+   "a": 27.36,
+   "b": 29.23
+  }
+ ]
+}
