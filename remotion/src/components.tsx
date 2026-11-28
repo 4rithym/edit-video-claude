@@ -197,8 +197,8 @@ export const Phone: React.FC<PhoneProps> = ({ showMsgAt = 0, showFileAt = 0, sho
         </div>
         <div style={{ position: "relative", display: "flex", alignItems: "center", gap: 18, background: C.waHead, padding: "18px 26px 20px" }}>
           <svg width="20" height="32" viewBox="0 0 12 20"><path d="M10 2 2 10l8 8" stroke="#E9EDEF" strokeWidth="2.4" fill="none" strokeLinecap="round" /></svg>
-          <div style={{ width: 66, height: 66, borderRadius: "50%", background: "linear-gradient(135deg,#7C8A99,#4E5A66)", display: "flex", alignItems: "center", justifyContent: "center", color: "#fff", fontWeight: 700, fontSize: 30 }}>F</div>
-          <div><div style={{ color: "#E9EDEF", fontWeight: 600, fontSize: 30 }}>Friend</div><div style={{ color: "#8696A0", fontSize: 22, marginTop: 2 }}>saved contact</div></div>
+          <div style={{ width: 66, height: 66, borderRadius: "50%", background: "linear-gradient(135deg,#7C8A99,#4E5A66)", display: "flex", alignItems: "center", justifyContent: "center", color: "#fff", fontWeight: 700, fontSize: 30 }}>H</div>
+          <div><div style={{ color: "#E9EDEF", fontWeight: 600, fontSize: 30 }}>Harith</div><div style={{ color: "#8696A0", fontSize: 22, marginTop: 2 }}>saved contact</div></div>
           <Ring on={hl("head")} color={C.amber} radius={18} />
         </div>
         <div style={{ padding: 22, display: "flex", flexDirection: "column", gap: 14 }}>
@@ -232,7 +232,7 @@ export const Phone: React.FC<PhoneProps> = ({ showMsgAt = 0, showFileAt = 0, sho
           )}
           {showAutoReplyAt != null && t >= showAutoReplyAt && (
             <div style={{ ...bub(showAutoReplyAt), position: "relative", alignSelf: "flex-start", maxWidth: 530, background: C.waIn, borderRadius: "0 18px 18px 18px", padding: "16px 20px 10px", color: "#E9EDEF", fontSize: 25, lineHeight: 1.36 }}>
-              Hi there! Thank you for messaging… I have received your message and will respond shortly.
+              Hi there! Thank you for messaging Harith… I have received your message and will respond shortly.
               <div style={{ textAlign: "right", fontSize: 19, color: "#8696A0", marginTop: 6 }}>2:41 PM</div>
               <Ring on={hl("ar")} color={C.amber} />
             </div>

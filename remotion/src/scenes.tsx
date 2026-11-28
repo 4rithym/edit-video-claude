@@ -57,7 +57,7 @@ export const SceneB: React.FC = () => {
           <span style={{ fontFamily: MONO, fontWeight: 700, fontSize: 58, color: C.red, textShadow: "0 0 30px rgba(255,77,87,0.5)" }}>{clock}</span>
         </div>
       </div>
-      <Reveal text="A friend's WhatsApp account was taken over." at={b1 + 4.2} size={52} weight={700} accent={["taken", "over"]} style={{ position: "absolute", left: 80, top: 575, width: 920, lineHeight: 1.15 }} />
+      <Reveal text="Harith's WhatsApp account was taken over." at={b1 + 4.2} size={52} weight={700} accent={["taken", "over"]} style={{ position: "absolute", left: 80, top: 575, width: 920, lineHeight: 1.15 }} />
       <div style={{ position: "absolute", left: 80, top: 760, width: 920, height: 820 }}>
         {ARRIVALS.map((tm, i) => {
           if (T(f) < at[i] - 0.05) return null;
@@ -72,7 +72,7 @@ export const SceneB: React.FC = () => {
                 </div>
                 <div style={{ flex: 1, minWidth: 0 }}>
                   <div style={{ display: "flex", justifyContent: "space-between", fontFamily: SANS, fontWeight: 700, fontSize: 28, color: C.text }}>
-                    <span>Friend</span><span style={{ fontFamily: MONO, fontWeight: 500, fontSize: 24, color: C.muted }}>{tm}</span>
+                    <span>Harith</span><span style={{ fontFamily: MONO, fontWeight: 500, fontSize: 24, color: C.muted }}>{tm}</span>
                   </div>
                   <div style={{ display: "flex", alignItems: "center", gap: 8, marginTop: 6, fontFamily: MONO, fontSize: 23, color: "#C8CED8" }}>
                     <Paperclip size={22} /> {FILE_NAME}
