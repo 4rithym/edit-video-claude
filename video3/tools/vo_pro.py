@@ -5,7 +5,7 @@ OUT = sys.argv[1]; VOICE = sys.argv[2] if len(sys.argv) > 2 else "ms-MY-OsmanNeu
 SCRIPT = [
  ("A","a1","Mesej ini kelihatan biasa. Ia datang daripada nombor kawan anda sendiri."),
  ("A","a2","Tetapi, jangan sesekali buka fail ini."),
- ("B","b1","Pada 27 November 2026, sekitar jam 2:38 petang, akaun WhatsApp milik Harith telah diambil alih."),
+ ("B","b1","Pada 27 November 2026, sekitar jam 2:38 petang, akaun WhatsApp milik seorang rakan telah diambil alih."),
  ("B","b2","Dalam masa kira-kira empat minit, mesej yang sama, bersama sebuah fail ZIP, dihantar kepada ramai kenalannya."),
  ("C","c1","Ini bukti sebenar daripada penerima. Nama fail, saiz, dan masanya hampir serentak."),
  ("D","d0","Kenal pasti tanda-tandanya."),

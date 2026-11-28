@@ -42,13 +42,13 @@ MSG = ("Sila forward statement of account di atas kepada bahagian Finance / Cash
        "Terima kasih atas kerjasama anda.")
 FNAME = "20261127134525.CC28C3AC.zip"
 def phone(pid, autoreply=False, typing=False):
-    ar = ('<div class="bub" id="%s-ar">Hi there! Thank you for messaging Harith&hellip; I have received your message and will respond shortly.'
+    ar = ('<div class="bub" id="%s-ar">Hi there! Thank you for messaging&hellip; I have received your message and will respond shortly.'
           '<div class="tm">2:41 PTG</div><div class="ring"></div></div>' % pid) if autoreply else ""
     ty = f'<div class="typing" id="{pid}-ty"><i></i><i></i><i></i></div>' if typing else ""
     return f'''<div class="phone" id="{pid}"><div class="screen"><div class="notch"></div>
   <div class="sbar"><span>2:40</span><span class="mono" style="font-size:20px">5G &#9646;&#9646;&#9646;</span></div>
   <div class="whead" id="{pid}-head"><svg width="22" height="34" viewBox="0 0 12 20"><path d="M10 2 2 10l8 8" stroke="#E9EDEF" stroke-width="2.4" fill="none" stroke-linecap="round"/></svg>
-    <div class="ava">H</div><div><div class="wname">Harith</div><div class="wsub">kenalan anda</div></div><div class="ring"></div></div>
+    <div class="ava">K</div><div><div class="wname">Kawan</div><div class="wsub">kenalan anda</div></div><div class="ring"></div></div>
   <div class="chat">{ty}
     <div class="bub" id="{pid}-msg">{MSG}<div class="tm">2:40 PTG</div><div class="ring"></div></div>
     <div class="bub" id="{pid}-file" style="padding:10px 10px 8px"><div class="file"><div class="fic">ZIP</div><div><div class="fname">{FNAME}</div><div class="fmeta">4.0 MB &middot; ZIP</div></div></div><div class="tm" style="padding-right:8px">2:40 PTG</div><div class="ring"></div><div class="ring red" id="{pid}-fred"></div></div>
@@ -105,10 +105,10 @@ FROM("#chipA", "opacity:0,scale:0.8,duration:0.45,ease:'back.out(2)'", tA + 1.0)
 # ---------- B: incident ----------
 times = ["14:38", "14:39", "14:40", "14:40", "14:41", "14:42"]
 notifs = "".join(f'''<div class="notif" id="nf{i}" style="top:{i * 132}px"><div class="nicon">{ic(I["chat"],36,"#fff",2.4)}</div>
-  <div class="nt"><div class="nt1">Harith <span>{tm}</span></div><div class="nt2">{ic(I["clip"],24,"#C7CDD6",2.2)}{FNAME}</div></div></div>''' for i, tm in enumerate(times))
+  <div class="nt"><div class="nt1">Kawan <span>{tm}</span></div><div class="nt2">{ic(I["clip"],24,"#C7CDD6",2.2)}{FNAME}</div></div></div>''' for i, tm in enumerate(times))
 scene("B", f'''<div class="out">{chapter("B", "01", "Apa yang berlaku")}
   <div class="wrap" style="top:440px"><div class="datebox"><div class="big-date mask"><span>27.11.2026</span></div><div class="big-time mask"><span>14:38</span></div></div>
-    <div class="inc-h" id="incH">Akaun WhatsApp Harith <b>diambil alih</b>.</div></div>
+    <div class="inc-h" id="incH">Akaun WhatsApp seorang rakan <b>diambil alih</b>.</div></div>
   <div class="wrap" style="top:760px;height:800px">{notifs}
     <div class="tline" style="top:810px"><div class="tl-bar"></div><div class="tl-fill" id="tlf"></div><div class="tl-lab" style="left:0">14:38</div><div class="tl-lab" style="right:0">14:42</div><div class="tl-mid">&asymp; 4 minit</div></div></div></div>''')
 chap_anim("B")
