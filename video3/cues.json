@@ -1,0 +1,217 @@
+{
+ "cues": {
+  "s1": 0,
+  "s1a": 0.35,
+  "s1b": 2.329,
+  "s2": 4.59,
+  "s2a": 4.94,
+  "s2b": 8.693,
+  "s2c": 10.502,
+  "s3": 16.71,
+  "s3a": 17.06,
+  "sg0": 19.127,
+  "sg1": 24.472,
+  "sg2": 28.304,
+  "sg3": 32.628,
+  "s4": 39.784,
+  "s4a": 40.134,
+  "s4b": 41.512,
+  "n0": 44.94,
+  "n1": 46.255,
+  "n2": 48.169,
+  "n3": 49.579,
+  "s5": 53.108,
+  "s5a": 53.458,
+  "tp0": 55.039,
+  "tp1": 59.966,
+  "tp2": 62.875,
+  "tp3": 66.294,
+  "tp4": 69.918,
+  "s6": 73.865,
+  "s6a": 74.215,
+  "st0": 76.286,
+  "st1": 78.312,
+  "st2": 80.616,
+  "st3": 83.878,
+  "rep": 86.917,
+  "s7": 97.708,
+  "s7a": 98.058,
+  "end": 104.776
+ },
+ "lines": [
+  {
+   "cue": "s1a",
+   "t": 0.35,
+   "d": 1.759,
+   "text": "Amaran! Jangan buka fail ini."
+  },
+  {
+   "cue": "s1b",
+   "t": 2.329,
+   "d": 1.841,
+   "text": "Trojan wassap sedang tersebar."
+  },
+  {
+   "cue": "s2a",
+   "t": 4.94,
+   "d": 3.533,
+   "text": "Pada dua puluh tujuh nofember, jam dua tiga puluh lapan petang,"
+  },
+  {
+   "cue": "s2b",
+   "t": 8.693,
+   "d": 1.59,
+   "text": "wassap Harith telah digodam."
+  },
+  {
+   "cue": "s2c",
+   "t": 10.502,
+   "d": 5.788,
+   "text": "Dalam masa kira-kira empat minit, mesej dan fail yang sama, dihantar kepada ramai kenalannya."
+  },
+  {
+   "cue": "s3a",
+   "t": 17.06,
+   "d": 1.846,
+   "text": "Kenal pasti tanda-tandanya."
+  },
+  {
+   "cue": "sg0",
+   "t": 19.127,
+   "d": 5.125,
+   "text": "Satu. Arahan formal tentang bahagian kewangan. Ini bukan gaya kawan anda."
+  },
+  {
+   "cue": "sg1",
+   "t": 24.472,
+   "d": 3.612,
+   "text": "Dua. Fail zip bernama pelik, tanpa sebarang penjelasan."
+  },
+  {
+   "cue": "sg2",
+   "t": 28.304,
+   "d": 4.104,
+   "text": "Tiga. Ia datang dari nombor kawan sendiri, jadi mudah dipercayai."
+  },
+  {
+   "cue": "sg3",
+   "t": 32.628,
+   "d": 6.736,
+   "text": "Empat. Balasan automatik masih berjalan. Ini akaun sebenar yang dirampas, bukan nombor palsu."
+  },
+  {
+   "cue": "s4a",
+   "t": 40.134,
+   "d": 1.158,
+   "text": "Kenapa ia bahaya?"
+  },
+  {
+   "cue": "s4b",
+   "t": 41.512,
+   "d": 3.208,
+   "text": "Fail berbahaya boleh menyamar sebagai dokumen biasa."
+  },
+  {
+   "cue": "n0",
+   "t": 44.94,
+   "d": 1.095,
+   "text": "Sekali dibuka,"
+  },
+  {
+   "cue": "n1",
+   "t": 46.255,
+   "d": 1.694,
+   "text": "peranti boleh dijangkiti,"
+  },
+  {
+   "cue": "n2",
+   "t": 48.169,
+   "d": 1.19,
+   "text": "akaun dirampas,"
+  },
+  {
+   "cue": "n3",
+   "t": 49.579,
+   "d": 3.108,
+   "text": "dan mesej ini disebarkan pula kepada kenalan anda."
+  },
+  {
+   "cue": "s5a",
+   "t": 53.458,
+   "d": 1.361,
+   "text": "Lindungi diri anda."
+  },
+  {
+   "cue": "tp0",
+   "t": 55.039,
+   "d": 4.707,
+   "text": "Jangan buka fail zip atau aplikasi yang tidak dijangka, walaupun dari kawan."
+  },
+  {
+   "cue": "tp1",
+   "t": 59.966,
+   "d": 2.689,
+   "text": "Telefon kawan itu dahulu untuk sahkan."
+  },
+  {
+   "cue": "tp2",
+   "t": 62.875,
+   "d": 3.199,
+   "text": "Aktifkan pengesahan dua langkah dalam tetapan akaun."
+  },
+  {
+   "cue": "tp3",
+   "t": 66.294,
+   "d": 3.404,
+   "text": "Semak peranti dipautkan, dan log keluar peranti yang tidak dikenali."
+  },
+  {
+   "cue": "tp4",
+   "t": 69.918,
+   "d": 3.528,
+   "text": "Jangan sekali-kali kongsi kod enam digit wassap anda."
+  },
+  {
+   "cue": "s6a",
+   "t": 74.215,
+   "d": 1.851,
+   "text": "Kalau fail itu sudah terbuka,"
+  },
+  {
+   "cue": "st0",
+   "t": 76.286,
+   "d": 1.806,
+   "text": "putuskan sambungan internet."
+  },
+  {
+   "cue": "st1",
+   "t": 78.312,
+   "d": 2.084,
+   "text": "Imbas peranti dengan antivirus."
+  },
+  {
+   "cue": "st2",
+   "t": 80.616,
+   "d": 3.041,
+   "text": "Tukar kata laluan penting, menggunakan peranti lain."
+  },
+  {
+   "cue": "st3",
+   "t": 83.878,
+   "d": 2.819,
+   "text": "Dan maklumkan kepada semua kenalan anda."
+  },
+  {
+   "cue": "rep",
+   "t": 86.917,
+   "d": 10.371,
+   "text": "Laporkan kepada saiber sembilan sembilan sembilan. Jika kehilangan wang, hubungi Pusat Respons Skem Kebangsaan, di talian sembilan sembilan tujuh."
+  },
+  {
+   "cue": "s7a",
+   "t": 98.058,
+   "d": 3.898,
+   "text": "Kongsi video ini, dan selamatkan kawan serta keluarga anda."
+  }
+ ]
+}
